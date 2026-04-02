@@ -1,0 +1,16 @@
+{
+  "namespace": "ellomenop",
+  "name": "LootChoiceExtension",
+  "description": "Allows for more choices when picking up boons and other loot.",
+  "version_number": "0.0.10",
+  "dependencies": [
+    "Hell2Modding-Hell2Modding-1.0.26",
+    "SGG_Modding-ENVY-1.0.0",
+    "SGG_Modding-Chalk-2.0.2",
+    "SGG_Modding-ReLoad-1.0.1",
+    "SGG_Modding-SJSON-1.0.0",
+    "SGG_Modding-ModUtil-3.1.0"
+  ],
+  "website_url": "https://github.com/ellomenop/Hades2-LootChoiceExtension",
+  "FullName": "ellomenop-LootChoiceExtension"
+}
